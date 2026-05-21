@@ -1,0 +1,6 @@
+name: pulumi-lab
+runtime:
+  name: python
+  options:
+    toolchain: uv
+description: Lab 10 Pulumi

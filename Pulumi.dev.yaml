@@ -1,0 +1,5 @@
+encryptionsalt: v1:HnIbpk8yYXw=:v1:YJZuB8XH69UieWaG:stLWh61jf2sTbL9GVU3RaWJHPJFFPw==
+config:
+  pulumi-lab:github_token:
+    secure: v1:reP//ZriZ55LL+g7:T0Ypo44wCWtkvheMqAokqQ/LEBCl6rVyjGyFG2/SBSxcL55hNkkq/ywMoFiQnCIvJtaZsdzB6uU=
+  pulumi-lab:repo_visibility: public

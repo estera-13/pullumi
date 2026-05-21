@@ -1,0 +1,4 @@
+.venv/
+.pulumi/
+__pycache__/
+.env
